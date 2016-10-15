@@ -1,4 +1,3 @@
-# git-exercise
-## git-exercise
-### git-exercise
-:smile:
+# git-exercise :smile:
+## git-exercise :smile:
+### git-exercise :smile:
